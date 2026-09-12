@@ -58,8 +58,15 @@ This dashboard provides a 360° view of sales operations, enabling stakeholders 
 ## File Structure
 
 ```
-├── Sales_Dashboard.pbix     # Power BI dashboard file
-├──                    # Source data
-├──                    #sql queries
-└── README.md                # Project documentation
+├──README.md                # Project documentation
+├── SQL queries for sales data analysis.docx #sql queries
+├──Sales_Analysis _Dashboard.png    #power BI report screenshot
+├──sales Analysis PowerBI report.pbix    # Power BI dashboard file
+├── sales_Canada.csv
+├──sales_China.csv
+├──sales_India.csv
+├──sales_Nigeria.csv
+├──sales_UK.csv
+├──sales_US.csv                   # Source data
+└──
 ```
