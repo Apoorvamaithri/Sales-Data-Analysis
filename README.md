@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard for tracking global sales performance, profitability, and customer purchasing behavior across countries, store locations, product categories, and payment methods.
 
-![Dashboard Preview](Sales_Analysis_Dashboard.png.png)
+![Dashboard Preview](Sales_Analysis_Dashboard.png)
 ## Overview
 
 This dashboard provides a 360° view of sales operations, enabling stakeholders to monitor key performance metrics, identify seasonal trends, and analyze the relationship between discounts and profitability.
